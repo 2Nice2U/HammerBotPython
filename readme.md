@@ -1,3 +1,6 @@
+This fork is inteded as an oldstable version of Hammerbot, for the latest and greatest feature go to:
+https://github.com/viktor40/HammerBotPython
+
 # HammerBot Python
 [![HitCount](http://hits.dwyl.com/viktor40/HammerBotPython.svg)](http://hits.dwyl.com/viktor40/HammerBotPython)
 
